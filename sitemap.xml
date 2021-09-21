@@ -3,37 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ai-cue.com/privacy/</loc>
+    <loc>https://www.ai-cue.com/products/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ai-cue.com/aisee/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ai-cue.com/privacy/</loc>
     <lastmod>2020-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ai-cue.com/about/</loc>
+    <loc>https://www.ai-cue.com/about/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ai-cue.com/</loc>
+    <loc>https://www.ai-cue.com/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ai-cue.com/products/</loc>
+    <loc>https://www.ai-cue.com/solutions/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ai-cue.com/solutions/</loc>
+    <loc>https://www.ai-cue.com/terms/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ai-cue.com/terms/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ai-cue.com/contact/</loc>
+    <loc>https://www.ai-cue.com/contact/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
