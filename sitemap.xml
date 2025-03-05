@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.aicuedatalab.com/cuestep/</loc>
+    <loc>http://localhost:1313/cuestep/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aicuedatalab.com/vispect/</loc>
+    <loc>http://localhost:1313/vispect/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aicuedatalab.com/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aicuedatalab.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aicuedatalab.com/terms/</loc>
+    <loc>http://localhost:1313/terms/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aicuedatalab.com/aideal/</loc>
+    <loc>http://localhost:1313/aideal/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aicuedatalab.com/aisee/</loc>
+    <loc>http://localhost:1313/aisee/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aicuedatalab.com/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aicuedatalab.com/privacy/</loc>
+    <loc>http://localhost:1313/privacy/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aicuedatalab.com/solutions/</loc>
+    <loc>http://localhost:1313/solutions/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
   </url>
 </urlset>
