@@ -31,21 +31,40 @@
             bottom: 20px;
             right: 20px;
             z-index: 1000;
+            animation: pulse 2s infinite;
         }
 
-         
-        .form-container {
-            display: none;
-            position: fixed;
-            bottom: 70px;
-             
-            right: 20px;
-            z-index: 999;
-            background-color: #fff;
-            padding: 20px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        .floating-button .btn {
+            background: linear-gradient(45deg, #0033CC, #FF0033);
+            color: white;
+            border: none;
+            border-radius: 50px;
+            padding: 15px 25px;
+            font-weight: bold;
+            font-size: 16px;
+            box-shadow: 0 4px 15px rgba(0, 51, 204, 0.4);
+            transition: all 0.3s ease;
         }
 
+        .floating-button .btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(0, 51, 204, 0.6);
+            background: linear-gradient(45deg, #FF0033, #0033CC);
+        }
+
+        @keyframes pulse {
+            0% {
+                transform: scale(1);
+            }
+
+            50% {
+                transform: scale(1.05);
+            }
+
+            100% {
+                transform: scale(1);
+            }
+        }
 
         .aicue-blue {
             color: #0033CC;
@@ -137,7 +156,7 @@
 
         <div class="container mt-5">
             <div class="floating-button">
-                <a href="/contact"><button class="btn btn-light aicue-blue">Contact Us</button></a>
+                <a href="/contact"><button class="btn">📞 Contact Us</button></a>
             </div>
         </div>
         <footer class="site-footer rounded p-4" style=" background-color: #CCC;">
