@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on AICUE DATA LAB - Enabling decision making in manufacturing industry with AI</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on AICUE DATA LAB - Enabling decision making in manufacturing industry with AI</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/products/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/products/</guid>
+      <description>&lt;h1 id=&#34;product-announcements-and-updates&#34;&gt;Product announcements and updates&lt;/h1&gt;&#xA;&lt;p&gt;We are excited to announce several new AI products that are now available. Each product is designed to address specific needs in various industries, leveraging the latest advancements in artificial intelligence.&lt;/p&gt;&#xA;&lt;h2 id=&#34;vispect-2025&#34;&gt;Vispect (2025)&lt;/h2&gt;&#xA;&lt;p&gt;Vispect is a cutting-edge AI solution designed for visual inspection in manufacturing. It enhances inspection effectiveness, reduces costs, and provides flexibility by deskilling operations. With cloud-based record maintenance and proven deployment across industries, Vispect ensures economical scalability for businesses of all sizes.&#xA;Know more about Vispect &lt;a href=&#34;https://www.aicuedatalab.com/vispect&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
