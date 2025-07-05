@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on AICUE DATA LAB - Enabling decision making in manufacturing industry with AI</title>
-    <link>https://www.aicuedatalab.com/blog/</link>
-    <description>Recent content in Blogs on AICUE DATA LAB - Enabling decision making in manufacturing industry with AI</description>
+    <title>AI on AICUE DATA LAB - Enabling decision making in manufacturing industry with AI</title>
+    <link>https://www.aicuedatalab.com/tags/ai/</link>
+    <description>Recent content in AI on AICUE DATA LAB - Enabling decision making in manufacturing industry with AI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aicuedatalab.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aicuedatalab.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why VISPECT is the Future of Smart Factory Inspection</title>
       <link>https://www.aicuedatalab.com/blog/vispect_future_smart_factory_inspection/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://www.aicuedatalab.com/blog/vispect_future_smart_factory_inspection/</guid>
       <description>&lt;h2 id=&#34;5-reasons-vispect-is-a-must-have-for-quality-driven-manufacturers&#34;&gt;5 Reasons VISPECT is a Must-Have for Quality-Driven Manufacturers&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1--dramatic-productivity-gains&#34;&gt;1. 🚀 Dramatic Productivity Gains&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Traditional Inspection&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takes 1–3 minutes per part&lt;/li&gt;&#xA;&lt;li&gt;Varies by operator&lt;/li&gt;&#xA;&lt;li&gt;Error-prone due to fatigue&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;VISPECT&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Seconds per inspection&lt;/li&gt;&#xA;&lt;li&gt;Consistent and fatigue-free&lt;/li&gt;&#xA;&lt;li&gt;Uniform across shifts&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;2--cost-savings-through-deskilling&#34;&gt;2. 💸 Cost Savings Through Deskilling&lt;/h3&gt;&#xA;&lt;p&gt;VISPECT decouples inspection skill from experience, so any operator can inspect like an expert.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Benefits:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lower inspection labor costs&lt;/li&gt;&#xA;&lt;li&gt;Faster onboarding&lt;/li&gt;&#xA;&lt;li&gt;Greater staff flexibility&lt;/li&gt;&#xA;&lt;li&gt;Reduced training needs&lt;/li&gt;&#xA;&lt;li&gt;Handle low-volume or sporadic parts easily&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;3--flexibility-with-mobile-quality-control&#34;&gt;3. 📱 Flexibility with Mobile Quality Control&lt;/h3&gt;&#xA;&lt;p&gt;VISPECT works with any camera—even smartphones—so inspections can be done anywhere:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.aicuedatalab.com/blog/products/</link>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/products/</guid>
-      <description>&lt;h1 id=&#34;product-announcements-and-updates&#34;&gt;Product announcements and updates&lt;/h1&gt;&#xA;&lt;p&gt;We are excited to announce several new AI products that are now available. Each product is designed to address specific needs in various industries, leveraging the latest advancements in artificial intelligence.&lt;/p&gt;&#xA;&lt;h2 id=&#34;vispect-2025&#34;&gt;Vispect (2025)&lt;/h2&gt;&#xA;&lt;p&gt;Vispect is a cutting-edge AI solution designed for visual inspection in manufacturing. It enhances inspection effectiveness, reduces costs, and provides flexibility by deskilling operations. With cloud-based record maintenance and proven deployment across industries, Vispect ensures economical scalability for businesses of all sizes.&#xA;Know more about Vispect &lt;a href=&#34;https://www.aicuedatalab.com/vispect&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
