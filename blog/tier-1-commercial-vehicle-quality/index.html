@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="How a Tier 1 Supplier Cut Inspection Time by 95% Using VISPECT">
@@ -16,7 +16,7 @@
         gtag('config', 'G-P5HYLQ4L48');
     </script>
     
-    <link rel="icon" href="">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
     
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
         integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
@@ -31,40 +31,21 @@
             bottom: 20px;
             right: 20px;
             z-index: 1000;
-            animation: pulse 2s infinite;
         }
 
-        .floating-button .btn {
-            background: linear-gradient(45deg, #0033CC, #FF0033);
-            color: white;
-            border: none;
-            border-radius: 50px;
-            padding: 15px 25px;
-            font-weight: bold;
-            font-size: 16px;
-            box-shadow: 0 4px 15px rgba(0, 51, 204, 0.4);
-            transition: all 0.3s ease;
+         
+        .form-container {
+            display: none;
+            position: fixed;
+            bottom: 70px;
+             
+            right: 20px;
+            z-index: 999;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         }
 
-        .floating-button .btn:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 6px 20px rgba(0, 51, 204, 0.6);
-            background: linear-gradient(45deg, #FF0033, #0033CC);
-        }
-
-        @keyframes pulse {
-            0% {
-                transform: scale(1);
-            }
-
-            50% {
-                transform: scale(1.05);
-            }
-
-            100% {
-                transform: scale(1);
-            }
-        }
 
         .aicue-blue {
             color: #0033CC;
@@ -113,8 +94,6 @@
                     <li class="nav-item px-2"><a href="/contact"><span
                                 class="glyphicon glyphicon-user"></span>Contact</a>
                     </li>
-                    <li class="nav-item px-2"><a href="/blog"><span class="glyphicon glyphicon-user"></span>Blog</a>
-                    </li>
                 </ul>
             </div>
         </nav>
@@ -145,7 +124,7 @@
 
         <div class="container mt-5">
             <div class="floating-button">
-                <a href="/contact"><button class="btn">📞 Contact Us</button></a>
+                <a href="/contact"><button class="btn btn-light aicue-blue">Contact Us</button></a>
             </div>
         </div>
         <footer class="site-footer rounded p-4" style=" background-color: #CCC;">
@@ -161,7 +140,7 @@
                         <div class="social-icons">
                             <a href="#"><i class="fab fa-facebook"></i></a>
                             <a href="https://www.x.com/aicuedatalab"><i class="fab fa-twitter"></i></a>
-                            <a href="https://www.linkedin.com/company/aicuedatalab"><i class="fab fa-linkedin"></i></a>
+                            <a href="#"><i class="fab fa-linkedin"></i></a>
                             <a href="#"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>

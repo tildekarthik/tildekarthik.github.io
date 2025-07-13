@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manufacturing on AICUE DATA LAB - Enabling decision making in manufacturing industry with AI</title>
-    <link>https://www.aicuedatalab.com/categories/manufacturing/</link>
+    <link>http://localhost:1313/categories/manufacturing/</link>
     <description>Recent content in Manufacturing on AICUE DATA LAB - Enabling decision making in manufacturing industry with AI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aicuedatalab.com/categories/manufacturing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/manufacturing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The AI Solution to Quality Control Crisis in Manufacturing SMEs</title>
-      <link>https://www.aicuedatalab.com/blog/vispect_intro/</link>
+      <link>http://localhost:1313/blog/vispect_intro/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/vispect_intro/</guid>
-      <description>&lt;h2 id=&#34;the-future-of-visual-inspection-is-here&#34;&gt;The Future of Visual Inspection is Here&lt;/h2&gt;&#xA;&lt;p&gt;Imagine this: a new operator walks onto your factory floor and begins performing complex visual inspections with the&#xA;precision of a seasoned quality engineer. This isn’t science fiction—it’s real, thanks to AI-powered visual inspection.&lt;/p&gt;&#xA;&lt;p&gt;At &lt;strong&gt;AICUE Data Lab&lt;/strong&gt;, we created &lt;a href=&#34;https://www.aicuedatalab.com/vispect&#34;&gt;VISPECT&lt;/a&gt; to address one of the most persistent challenges in manufacturing:&#xA;maintaining consistent, high-quality inspection despite a shortage of skilled labor and increasing product complexity.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/vispect_intro/</guid>
+      <description>&lt;h2 id=&#34;the-future-of-visual-inspection-is-here&#34;&gt;The Future of Visual Inspection is Here&lt;/h2&gt;&#xA;&lt;p&gt;Imagine this: a new operator walks onto your factory floor and begins performing complex visual inspections with the&#xA;precision of a seasoned quality engineer. This isn’t science fiction—it’s real, thanks to AI-powered visual inspection.&lt;/p&gt;&#xA;&lt;p&gt;At &lt;strong&gt;AICUE Data Lab&lt;/strong&gt;, we created &lt;a href=&#34;http://localhost:1313/vispect&#34;&gt;VISPECT&lt;/a&gt; to address one of the most persistent challenges in manufacturing:&#xA;maintaining consistent, high-quality inspection despite a shortage of skilled labor and increasing product complexity.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
