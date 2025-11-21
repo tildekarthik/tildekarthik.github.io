@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Customer Stories on AICUE DATA LAB - Enabling decision making in manufacturing industry with AI</title>
-    <link>https://www.aicuedatalab.com/tags/customer-stories/</link>
+    <link>http://localhost:1313/tags/customer-stories/</link>
     <description>Recent content in Customer Stories on AICUE DATA LAB - Enabling decision making in manufacturing industry with AI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aicuedatalab.com/tags/customer-stories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/customer-stories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Voice of the Customer: Real Feedback on Vispect AI Visual Inspection</title>
-      <link>https://www.aicuedatalab.com/blog/voice-of-the-customer-real-feedback-on-vispect-ai-visual-inspection/</link>
+      <link>http://localhost:1313/blog/voice-of-the-customer-real-feedback-on-vispect-ai-visual-inspection/</link>
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/voice-of-the-customer-real-feedback-on-vispect-ai-visual-inspection/</guid>
+      <guid>http://localhost:1313/blog/voice-of-the-customer-real-feedback-on-vispect-ai-visual-inspection/</guid>
       <description>&lt;p&gt;At Vispect, we know real feedback from users is invaluable. Here’s the genuine, unedited voice of a plant quality head who implemented the Vispect AI visual inspection system in their factory:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;“Most important benefit Sir, No need for trained operator. New boy joined, in 3rd day he was doing inspection of assembly with more than 60 brackets. Big benefit.”&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;“We have other states contractors working, they said computer wont be better than us, why you want to use computer. 3 months ago I showed him(a senior contractor) the one failure that went to customer and we fixed it there, then I showed him that system had pointed it too! – Now he will not move to paint shop without AI inspection.”&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

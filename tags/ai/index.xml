@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on AICUE DATA LAB - Enabling decision making in manufacturing industry with AI</title>
-    <link>https://www.aicuedatalab.com/tags/ai/</link>
+    <link>http://localhost:1313/tags/ai/</link>
     <description>Recent content in AI on AICUE DATA LAB - Enabling decision making in manufacturing industry with AI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Oct 2025 09:00:00 +0530</lastBuildDate>
-    <atom:link href="https://www.aicuedatalab.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Real-Time Alerts That Reach the People Who Can Act</title>
-      <link>https://www.aicuedatalab.com/blog/real-time-alerts-that-reach-the-people-who-can-act/</link>
+      <link>http://localhost:1313/blog/real-time-alerts-that-reach-the-people-who-can-act/</link>
       <pubDate>Thu, 30 Oct 2025 09:00:00 +0530</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/real-time-alerts-that-reach-the-people-who-can-act/</guid>
+      <guid>http://localhost:1313/blog/real-time-alerts-that-reach-the-people-who-can-act/</guid>
       <description>&lt;p&gt;Safety isn’t just about reporting — it’s about responding.&lt;br&gt;&#xA;&lt;strong&gt;AISee&lt;/strong&gt; sends &lt;strong&gt;instant alerts with images&lt;/strong&gt; to the &lt;strong&gt;actual operating staff&lt;/strong&gt; via WhatsApp or the mobile app.&lt;br&gt;&#xA;If someone misses a helmet or enters a restricted zone, supervisors know immediately — with a visual alert they can act on.&lt;/p&gt;&#xA;&lt;p&gt;This closes the gap between observation and action.&lt;br&gt;&#xA;No waiting for reports. No missed incidents.&lt;br&gt;&#xA;Just timely information that helps people fix issues right where they happen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Turning Safety into Measurable Metrics with AISee</title>
-      <link>https://www.aicuedatalab.com/blog/turning-safety-into-measurable-metrics-with-aisee/</link>
+      <link>http://localhost:1313/blog/turning-safety-into-measurable-metrics-with-aisee/</link>
       <pubDate>Thu, 16 Oct 2025 09:00:00 +0530</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/turning-safety-into-measurable-metrics-with-aisee/</guid>
+      <guid>http://localhost:1313/blog/turning-safety-into-measurable-metrics-with-aisee/</guid>
       <description>&lt;p&gt;For years, safety audits have relied on manual observations and checklists — difficult to sustain and nearly impossible to measure objectively.&lt;br&gt;&#xA;With &lt;strong&gt;AISee&lt;/strong&gt;, shop floors now gain &lt;strong&gt;measurable, daily metrics&lt;/strong&gt; for safety adherence using their existing CCTV feeds.&lt;/p&gt;&#xA;&lt;p&gt;AISee’s Vision-AI technology automatically detects safety gear like &lt;strong&gt;helmets, jackets, and goggles&lt;/strong&gt;, logs compliance by shift, and builds visual trend reports.&lt;br&gt;&#xA;Supervisors and managers can see at a glance how safety compliance evolves over time — by workstation, by shift, and by department.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How a Tier 1 Supplier Cut Inspection Time by 95% Using VISPECT</title>
-      <link>https://www.aicuedatalab.com/blog/how-a-tier-1-supplier-cut-inspection-time-by-95-using-vispect/</link>
+      <link>http://localhost:1313/blog/how-a-tier-1-supplier-cut-inspection-time-by-95-using-vispect/</link>
       <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/how-a-tier-1-supplier-cut-inspection-time-by-95-using-vispect/</guid>
+      <guid>http://localhost:1313/blog/how-a-tier-1-supplier-cut-inspection-time-by-95-using-vispect/</guid>
       <description>&lt;h2 id=&#34;a-tier-1-suppliers-journey-from-15-minute-inspections-to-45-seconds&#34;&gt;A Tier 1 Supplier&amp;rsquo;s Journey from 15-Minute Inspections to 45 Seconds&lt;/h2&gt;&#xA;&lt;p&gt;In the world of commercial vehicle manufacturing, quality assurance is non-negotiable. For one Tier 1 supplier specializing in &lt;strong&gt;fabrication and metal forming&lt;/strong&gt;, ensuring precision across thousands of parts per month was a serious operational challenge.&lt;/p&gt;&#xA;&lt;p&gt;Before VISPECT, their most complex part—requiring &lt;strong&gt;five different views and 150 individual part identification checks&lt;/strong&gt;—took around &lt;strong&gt;15 minutes&lt;/strong&gt; to inspect manually. This created delays, fatigue, and inconsistencies across operators and shifts. Also, this was with an experienced operator, who could only inspect a limited number of parts per hour.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The AI Solution to Quality Control Crisis in Manufacturing SMEs</title>
-      <link>https://www.aicuedatalab.com/blog/the-ai-solution-to-quality-control-crisis-in-manufacturing-smes/</link>
+      <link>http://localhost:1313/blog/the-ai-solution-to-quality-control-crisis-in-manufacturing-smes/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/the-ai-solution-to-quality-control-crisis-in-manufacturing-smes/</guid>
-      <description>&lt;h2 id=&#34;the-future-of-visual-inspection-is-here&#34;&gt;The Future of Visual Inspection is Here&lt;/h2&gt;&#xA;&lt;p&gt;Imagine this: a new operator walks onto your factory floor and begins performing complex visual inspections with the&#xA;precision of a seasoned quality engineer. This isn’t science fiction—it’s real, thanks to AI-powered visual inspection.&lt;/p&gt;&#xA;&lt;p&gt;At &lt;strong&gt;AICUE Data Lab&lt;/strong&gt;, we created &lt;a href=&#34;https://www.aicuedatalab.com/vispect&#34;&gt;VISPECT&lt;/a&gt; to address one of the most persistent challenges in manufacturing:&#xA;maintaining consistent, high-quality inspection despite a shortage of skilled labor and increasing product complexity.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/the-ai-solution-to-quality-control-crisis-in-manufacturing-smes/</guid>
+      <description>&lt;h2 id=&#34;the-future-of-visual-inspection-is-here&#34;&gt;The Future of Visual Inspection is Here&lt;/h2&gt;&#xA;&lt;p&gt;Imagine this: a new operator walks onto your factory floor and begins performing complex visual inspections with the&#xA;precision of a seasoned quality engineer. This isn’t science fiction—it’s real, thanks to AI-powered visual inspection.&lt;/p&gt;&#xA;&lt;p&gt;At &lt;strong&gt;AICUE Data Lab&lt;/strong&gt;, we created &lt;a href=&#34;http://localhost:1313/vispect&#34;&gt;VISPECT&lt;/a&gt; to address one of the most persistent challenges in manufacturing:&#xA;maintaining consistent, high-quality inspection despite a shortage of skilled labor and increasing product complexity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why VISPECT is the Future of Smart Factory Inspection</title>
-      <link>https://www.aicuedatalab.com/blog/why-vispect-is-the-future-of-smart-factory-inspection/</link>
+      <link>http://localhost:1313/blog/why-vispect-is-the-future-of-smart-factory-inspection/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/why-vispect-is-the-future-of-smart-factory-inspection/</guid>
+      <guid>http://localhost:1313/blog/why-vispect-is-the-future-of-smart-factory-inspection/</guid>
       <description>&lt;h2 id=&#34;5-reasons-vispect-is-a-must-have-for-quality-driven-manufacturers&#34;&gt;5 Reasons VISPECT is a Must-Have for Quality-Driven Manufacturers&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1--dramatic-productivity-gains&#34;&gt;1. 🚀 Dramatic Productivity Gains&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Traditional Inspection&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takes 1–3 minutes per part&lt;/li&gt;&#xA;&lt;li&gt;Varies by operator&lt;/li&gt;&#xA;&lt;li&gt;Error-prone due to fatigue&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;VISPECT&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Seconds per inspection&lt;/li&gt;&#xA;&lt;li&gt;Consistent and fatigue-free&lt;/li&gt;&#xA;&lt;li&gt;Uniform across shifts&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;2--cost-savings-through-deskilling&#34;&gt;2. 💸 Cost Savings Through Deskilling&lt;/h3&gt;&#xA;&lt;p&gt;VISPECT decouples inspection skill from experience, so any operator can inspect like an expert.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Benefits:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lower inspection labor costs&lt;/li&gt;&#xA;&lt;li&gt;Faster onboarding&lt;/li&gt;&#xA;&lt;li&gt;Greater staff flexibility&lt;/li&gt;&#xA;&lt;li&gt;Reduced training needs&lt;/li&gt;&#xA;&lt;li&gt;Handle low-volume or sporadic parts easily&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;3--flexibility-with-mobile-quality-control&#34;&gt;3. 📱 Flexibility with Mobile Quality Control&lt;/h3&gt;&#xA;&lt;p&gt;VISPECT works with any camera—even smartphones—so inspections can be done anywhere:&lt;/p&gt;</description>
     </item>
   </channel>

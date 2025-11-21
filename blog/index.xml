@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on AICUE DATA LAB - Enabling decision making in manufacturing industry with AI</title>
-    <link>https://www.aicuedatalab.com/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blogs on AICUE DATA LAB - Enabling decision making in manufacturing industry with AI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aicuedatalab.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Showcasing VISPECT at the Daimler India Commercial Vehicles Quality Summit</title>
-      <link>https://www.aicuedatalab.com/blog/showcasing-vispect-at-the-daimler-india-commercial-vehicles-quality-summit/</link>
+      <link>http://localhost:1313/blog/showcasing-vispect-at-the-daimler-india-commercial-vehicles-quality-summit/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/showcasing-vispect-at-the-daimler-india-commercial-vehicles-quality-summit/</guid>
+      <guid>http://localhost:1313/blog/showcasing-vispect-at-the-daimler-india-commercial-vehicles-quality-summit/</guid>
       <description>&lt;h1 id=&#34;showcasing-vispect-at-the-daimler-india-commercial-vehicles-quality-summit&#34;&gt;Showcasing VISPECT at the Daimler India Commercial Vehicles Quality Summit&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://publicstaticobjects.s3.ap-south-1.amazonaws.com/aicue/images/20251120_DICV_Quality_Summit_TropyImage.jpeg&#34; alt=&#34;DICV Quality Summit Trophy&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;At AICUE DATA LAB, we recently had the opportunity to showcase our product &lt;strong&gt;VISPECT — Visual Inspection with AI (using just a mobile)&lt;/strong&gt; at the DICV Quality Summit.&lt;/p&gt;&#xA;&lt;p&gt;Over the course of the event, more than 50 visitors from various functions stopped by our stall to learn how VISPECT can help transform traditional visual inspection into a digital, data-driven process.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Future of Dealerships: AI-Driven Observability Across Every Bay</title>
-      <link>https://www.aicuedatalab.com/blog/the-future-of-dealerships-ai-driven-observability-across-every-bay/</link>
+      <link>http://localhost:1313/blog/the-future-of-dealerships-ai-driven-observability-across-every-bay/</link>
       <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/the-future-of-dealerships-ai-driven-observability-across-every-bay/</guid>
+      <guid>http://localhost:1313/blog/the-future-of-dealerships-ai-driven-observability-across-every-bay/</guid>
       <description>&lt;p&gt;For decades, dealership efficiency was measured by the number of bays, the size of the team, or the hours per job.&lt;br&gt;&#xA;Today, a new metric is emerging — &lt;strong&gt;observability&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Dealerships that &lt;em&gt;see everything in real time&lt;/em&gt; are outpacing those that rely on manual tracking or end-of-day summaries.&lt;br&gt;&#xA;AI-driven observability is no longer futuristic; it’s quietly becoming the foundation of how modern workshops run.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-new-standard-of-awareness&#34;&gt;The New Standard of Awareness&lt;/h2&gt;&#xA;&lt;p&gt;With &lt;strong&gt;Platemate AI&lt;/strong&gt; capturing vehicle movements and &lt;strong&gt;AIDeal&lt;/strong&gt; interpreting patterns, every step of the service journey becomes visible:&lt;/p&gt;</description>
     </item>
     <item>
       <title>From Data to Decisions: How AIDeal Helps Dealers Plan Smarter</title>
-      <link>https://www.aicuedatalab.com/blog/from-data-to-decisions-how-aideal-helps-dealers-plan-smarter/</link>
+      <link>http://localhost:1313/blog/from-data-to-decisions-how-aideal-helps-dealers-plan-smarter/</link>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/from-data-to-decisions-how-aideal-helps-dealers-plan-smarter/</guid>
+      <guid>http://localhost:1313/blog/from-data-to-decisions-how-aideal-helps-dealers-plan-smarter/</guid>
       <description>&lt;p&gt;Most dealerships are flooded with data — job cards, CCTV footage, service records, billing logs.&lt;br&gt;&#xA;But few can &lt;em&gt;see&lt;/em&gt; what that data is really saying.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;AIDeal&lt;/strong&gt; was built to bridge that gap.&lt;br&gt;&#xA;It transforms the constant flow of service data into &lt;strong&gt;clear, predictive insights&lt;/strong&gt; that help dealers plan better, allocate resources efficiently, and stay ahead of bottlenecks.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;from-reporting-to-foresight&#34;&gt;From Reporting to Foresight&lt;/h2&gt;&#xA;&lt;p&gt;Traditional reporting tells you what happened.&lt;br&gt;&#xA;AIDeal goes further — it tells you what’s &lt;em&gt;about to happen.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Real-Time Alerts That Reach the People Who Can Act</title>
-      <link>https://www.aicuedatalab.com/blog/real-time-alerts-that-reach-the-people-who-can-act/</link>
+      <link>http://localhost:1313/blog/real-time-alerts-that-reach-the-people-who-can-act/</link>
       <pubDate>Thu, 30 Oct 2025 09:00:00 +0530</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/real-time-alerts-that-reach-the-people-who-can-act/</guid>
+      <guid>http://localhost:1313/blog/real-time-alerts-that-reach-the-people-who-can-act/</guid>
       <description>&lt;p&gt;Safety isn’t just about reporting — it’s about responding.&lt;br&gt;&#xA;&lt;strong&gt;AISee&lt;/strong&gt; sends &lt;strong&gt;instant alerts with images&lt;/strong&gt; to the &lt;strong&gt;actual operating staff&lt;/strong&gt; via WhatsApp or the mobile app.&lt;br&gt;&#xA;If someone misses a helmet or enters a restricted zone, supervisors know immediately — with a visual alert they can act on.&lt;/p&gt;&#xA;&lt;p&gt;This closes the gap between observation and action.&lt;br&gt;&#xA;No waiting for reports. No missed incidents.&lt;br&gt;&#xA;Just timely information that helps people fix issues right where they happen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Small Fixes, Big Gains: How Real-Time Alerts Prevent Service Bay Bottlenecks</title>
-      <link>https://www.aicuedatalab.com/blog/small-fixes-big-gains-how-real-time-alerts-prevent-service-bay-bottlenecks/</link>
+      <link>http://localhost:1313/blog/small-fixes-big-gains-how-real-time-alerts-prevent-service-bay-bottlenecks/</link>
       <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/small-fixes-big-gains-how-real-time-alerts-prevent-service-bay-bottlenecks/</guid>
+      <guid>http://localhost:1313/blog/small-fixes-big-gains-how-real-time-alerts-prevent-service-bay-bottlenecks/</guid>
       <description>&lt;p&gt;In a busy dealership, it’s rarely the big problems that slow things down.&lt;br&gt;&#xA;It’s the small, silent ones — a delayed billing, an electrician tied up, a vehicle waiting for approval.&lt;/p&gt;&#xA;&lt;p&gt;Individually, they seem minor. But together, they create the familiar picture of full bays, idle technicians, and missed delivery targets.&lt;/p&gt;&#xA;&lt;p&gt;The good news? Those issues can be caught early — with &lt;strong&gt;real-time AI alerts&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-power-of-instant-awareness&#34;&gt;The Power of Instant Awareness&lt;/h2&gt;&#xA;&lt;p&gt;When a vehicle crosses the &lt;strong&gt;24-hour threshold&lt;/strong&gt;, or when completed cars remain on-site too long, a simple &lt;strong&gt;email alert&lt;/strong&gt; from &lt;strong&gt;AIDeal&lt;/strong&gt; and &lt;strong&gt;Platemate AI&lt;/strong&gt; can make all the difference.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Audit Readiness Made Simple — Show Numbers, Not Narratives</title>
-      <link>https://www.aicuedatalab.com/blog/audit-readiness-made-simple-show-numbers-not-narratives/</link>
+      <link>http://localhost:1313/blog/audit-readiness-made-simple-show-numbers-not-narratives/</link>
       <pubDate>Thu, 23 Oct 2025 09:00:00 +0530</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/audit-readiness-made-simple-show-numbers-not-narratives/</guid>
+      <guid>http://localhost:1313/blog/audit-readiness-made-simple-show-numbers-not-narratives/</guid>
       <description>&lt;p&gt;Audits often come down to one big question: &lt;em&gt;Can you demonstrate improvement?&lt;/em&gt;&lt;br&gt;&#xA;Most shop floors struggle here — safety logs are inconsistent, and human observation is unreliable over long periods.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;AISee changes that.&lt;/strong&gt;&lt;br&gt;&#xA;Every deviation is logged automatically, along with time-stamped images and compliance percentages.&lt;br&gt;&#xA;When an auditor asks, you don’t show manual registers — you show &lt;strong&gt;data&lt;/strong&gt;, &lt;strong&gt;charts&lt;/strong&gt;, and &lt;strong&gt;trends&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;benefits&#34;&gt;Benefits&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real-time, quantitative evidence for safety compliance&lt;/li&gt;&#xA;&lt;li&gt;Automatic monthly and quarterly summaries&lt;/li&gt;&#xA;&lt;li&gt;Visual proof of CAPA (Corrective and Preventive Actions) effectiveness&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;AISee gives you the ability to say with confidence:&lt;/p&gt;</description>
     </item>
     <item>
       <title>24-Hour Turnaround: Why Visibility Is the New Efficiency Metric</title>
-      <link>https://www.aicuedatalab.com/blog/24-hour-turnaround-why-visibility-is-the-new-efficiency-metric/</link>
+      <link>http://localhost:1313/blog/24-hour-turnaround-why-visibility-is-the-new-efficiency-metric/</link>
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/24-hour-turnaround-why-visibility-is-the-new-efficiency-metric/</guid>
+      <guid>http://localhost:1313/blog/24-hour-turnaround-why-visibility-is-the-new-efficiency-metric/</guid>
       <description>&lt;p&gt;Every dealership wants faster turnaround — but not every dealership &lt;em&gt;knows&lt;/em&gt; where the time goes.&lt;/p&gt;&#xA;&lt;p&gt;In today’s service operations, efficiency isn’t just about tools or technicians. It’s about &lt;strong&gt;visibility&lt;/strong&gt;.&lt;br&gt;&#xA;The moment you can &lt;em&gt;see&lt;/em&gt; every vehicle’s journey from entry to exit, you start to notice the invisible losses — waiting, delays, and idle bays.&lt;/p&gt;&#xA;&lt;p&gt;That’s why forward-thinking dealerships are now using &lt;strong&gt;visibility&lt;/strong&gt; itself as the key performance metric.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-visibility-gap&#34;&gt;The Visibility Gap&lt;/h2&gt;&#xA;&lt;p&gt;Most workshops still rely on manual updates, whiteboards, or service advisors to track progress.&lt;br&gt;&#xA;But as vehicle volumes increase, so does complexity.&lt;br&gt;&#xA;A few untracked cars quickly snowball into hours of wasted bay time and missed same-day deliveries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Turning Safety into Measurable Metrics with AISee</title>
-      <link>https://www.aicuedatalab.com/blog/turning-safety-into-measurable-metrics-with-aisee/</link>
+      <link>http://localhost:1313/blog/turning-safety-into-measurable-metrics-with-aisee/</link>
       <pubDate>Thu, 16 Oct 2025 09:00:00 +0530</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/turning-safety-into-measurable-metrics-with-aisee/</guid>
+      <guid>http://localhost:1313/blog/turning-safety-into-measurable-metrics-with-aisee/</guid>
       <description>&lt;p&gt;For years, safety audits have relied on manual observations and checklists — difficult to sustain and nearly impossible to measure objectively.&lt;br&gt;&#xA;With &lt;strong&gt;AISee&lt;/strong&gt;, shop floors now gain &lt;strong&gt;measurable, daily metrics&lt;/strong&gt; for safety adherence using their existing CCTV feeds.&lt;/p&gt;&#xA;&lt;p&gt;AISee’s Vision-AI technology automatically detects safety gear like &lt;strong&gt;helmets, jackets, and goggles&lt;/strong&gt;, logs compliance by shift, and builds visual trend reports.&lt;br&gt;&#xA;Supervisors and managers can see at a glance how safety compliance evolves over time — by workstation, by shift, and by department.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Case Study: How a Dealership Improved Service Turnaround and Turnover by 10% Using AI</title>
-      <link>https://www.aicuedatalab.com/blog/case-study-how-a-dealership-improved-service-turnaround-and-turnover-by-10-using-ai/</link>
+      <link>http://localhost:1313/blog/case-study-how-a-dealership-improved-service-turnaround-and-turnover-by-10-using-ai/</link>
       <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/case-study-how-a-dealership-improved-service-turnaround-and-turnover-by-10-using-ai/</guid>
+      <guid>http://localhost:1313/blog/case-study-how-a-dealership-improved-service-turnaround-and-turnover-by-10-using-ai/</guid>
       <description>&lt;p&gt;When a leading multi-brand dealership started missing delivery commitments, it wasn’t because of poor technicians — it was visibility. Vehicles were ready but still waiting. Bays stayed full, and same-day deliveries kept slipping.&lt;/p&gt;&#xA;&lt;p&gt;That changed when the team implemented &lt;strong&gt;Platemate AI&lt;/strong&gt; and &lt;strong&gt;AIDeal&lt;/strong&gt; together. What followed was a 10% increase in service capacity — without adding staff or a single extra bay.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-challenge-bottlenecks-hidden-in-plain-sight&#34;&gt;The Challenge: Bottlenecks Hidden in Plain Sight&lt;/h2&gt;&#xA;&lt;p&gt;The dealership aimed for a &lt;strong&gt;24-hour turnaround&lt;/strong&gt; for all service jobs.&lt;br&gt;&#xA;But once the vehicle entered the workshop, visibility vanished.&lt;br&gt;&#xA;Cars were often completed but undelivered — waiting for billing, approval, or a cashier.&lt;br&gt;&#xA;No one knew exactly how long each vehicle had been on site.&lt;/p&gt;</description>
     </item>
     <item>
       <title>From Cameras to Insights: How AI is Transforming Dealership Operations</title>
-      <link>https://www.aicuedatalab.com/blog/from-cameras-to-insights-how-ai-is-transforming-dealership-operations/</link>
+      <link>http://localhost:1313/blog/from-cameras-to-insights-how-ai-is-transforming-dealership-operations/</link>
       <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/from-cameras-to-insights-how-ai-is-transforming-dealership-operations/</guid>
+      <guid>http://localhost:1313/blog/from-cameras-to-insights-how-ai-is-transforming-dealership-operations/</guid>
       <description>&lt;p&gt;Most dealerships already have dozens of CCTV cameras quietly recording every moment — vehicles arriving, bays filling, customers waiting.&lt;br&gt;&#xA;What if those same cameras could tell you &lt;em&gt;why&lt;/em&gt; a service bay is free, &lt;em&gt;which&lt;/em&gt; vehicles are pending delivery, or &lt;em&gt;how long&lt;/em&gt; a car has been waiting after completion?&lt;/p&gt;&#xA;&lt;p&gt;That’s exactly what we set out to do with &lt;strong&gt;Platemate AI&lt;/strong&gt; and &lt;strong&gt;AIDeal&lt;/strong&gt; — turning ordinary cameras into a real-time source of operational intelligence.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Voice of the Customer: Real Feedback on Vispect AI Visual Inspection</title>
-      <link>https://www.aicuedatalab.com/blog/voice-of-the-customer-real-feedback-on-vispect-ai-visual-inspection/</link>
+      <link>http://localhost:1313/blog/voice-of-the-customer-real-feedback-on-vispect-ai-visual-inspection/</link>
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/voice-of-the-customer-real-feedback-on-vispect-ai-visual-inspection/</guid>
+      <guid>http://localhost:1313/blog/voice-of-the-customer-real-feedback-on-vispect-ai-visual-inspection/</guid>
       <description>&lt;p&gt;At Vispect, we know real feedback from users is invaluable. Here’s the genuine, unedited voice of a plant quality head who implemented the Vispect AI visual inspection system in their factory:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;“Most important benefit Sir, No need for trained operator. New boy joined, in 3rd day he was doing inspection of assembly with more than 60 brackets. Big benefit.”&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;“We have other states contractors working, they said computer wont be better than us, why you want to use computer. 3 months ago I showed him(a senior contractor) the one failure that went to customer and we fixed it there, then I showed him that system had pointed it too! – Now he will not move to paint shop without AI inspection.”&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How a Tier 1 Supplier Cut Inspection Time by 95% Using VISPECT</title>
-      <link>https://www.aicuedatalab.com/blog/how-a-tier-1-supplier-cut-inspection-time-by-95-using-vispect/</link>
+      <link>http://localhost:1313/blog/how-a-tier-1-supplier-cut-inspection-time-by-95-using-vispect/</link>
       <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/how-a-tier-1-supplier-cut-inspection-time-by-95-using-vispect/</guid>
+      <guid>http://localhost:1313/blog/how-a-tier-1-supplier-cut-inspection-time-by-95-using-vispect/</guid>
       <description>&lt;h2 id=&#34;a-tier-1-suppliers-journey-from-15-minute-inspections-to-45-seconds&#34;&gt;A Tier 1 Supplier&amp;rsquo;s Journey from 15-Minute Inspections to 45 Seconds&lt;/h2&gt;&#xA;&lt;p&gt;In the world of commercial vehicle manufacturing, quality assurance is non-negotiable. For one Tier 1 supplier specializing in &lt;strong&gt;fabrication and metal forming&lt;/strong&gt;, ensuring precision across thousands of parts per month was a serious operational challenge.&lt;/p&gt;&#xA;&lt;p&gt;Before VISPECT, their most complex part—requiring &lt;strong&gt;five different views and 150 individual part identification checks&lt;/strong&gt;—took around &lt;strong&gt;15 minutes&lt;/strong&gt; to inspect manually. This created delays, fatigue, and inconsistencies across operators and shifts. Also, this was with an experienced operator, who could only inspect a limited number of parts per hour.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The AI Solution to Quality Control Crisis in Manufacturing SMEs</title>
-      <link>https://www.aicuedatalab.com/blog/the-ai-solution-to-quality-control-crisis-in-manufacturing-smes/</link>
+      <link>http://localhost:1313/blog/the-ai-solution-to-quality-control-crisis-in-manufacturing-smes/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/the-ai-solution-to-quality-control-crisis-in-manufacturing-smes/</guid>
-      <description>&lt;h2 id=&#34;the-future-of-visual-inspection-is-here&#34;&gt;The Future of Visual Inspection is Here&lt;/h2&gt;&#xA;&lt;p&gt;Imagine this: a new operator walks onto your factory floor and begins performing complex visual inspections with the&#xA;precision of a seasoned quality engineer. This isn’t science fiction—it’s real, thanks to AI-powered visual inspection.&lt;/p&gt;&#xA;&lt;p&gt;At &lt;strong&gt;AICUE Data Lab&lt;/strong&gt;, we created &lt;a href=&#34;https://www.aicuedatalab.com/vispect&#34;&gt;VISPECT&lt;/a&gt; to address one of the most persistent challenges in manufacturing:&#xA;maintaining consistent, high-quality inspection despite a shortage of skilled labor and increasing product complexity.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/the-ai-solution-to-quality-control-crisis-in-manufacturing-smes/</guid>
+      <description>&lt;h2 id=&#34;the-future-of-visual-inspection-is-here&#34;&gt;The Future of Visual Inspection is Here&lt;/h2&gt;&#xA;&lt;p&gt;Imagine this: a new operator walks onto your factory floor and begins performing complex visual inspections with the&#xA;precision of a seasoned quality engineer. This isn’t science fiction—it’s real, thanks to AI-powered visual inspection.&lt;/p&gt;&#xA;&lt;p&gt;At &lt;strong&gt;AICUE Data Lab&lt;/strong&gt;, we created &lt;a href=&#34;http://localhost:1313/vispect&#34;&gt;VISPECT&lt;/a&gt; to address one of the most persistent challenges in manufacturing:&#xA;maintaining consistent, high-quality inspection despite a shortage of skilled labor and increasing product complexity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why VISPECT is the Future of Smart Factory Inspection</title>
-      <link>https://www.aicuedatalab.com/blog/why-vispect-is-the-future-of-smart-factory-inspection/</link>
+      <link>http://localhost:1313/blog/why-vispect-is-the-future-of-smart-factory-inspection/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/why-vispect-is-the-future-of-smart-factory-inspection/</guid>
+      <guid>http://localhost:1313/blog/why-vispect-is-the-future-of-smart-factory-inspection/</guid>
       <description>&lt;h2 id=&#34;5-reasons-vispect-is-a-must-have-for-quality-driven-manufacturers&#34;&gt;5 Reasons VISPECT is a Must-Have for Quality-Driven Manufacturers&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1--dramatic-productivity-gains&#34;&gt;1. 🚀 Dramatic Productivity Gains&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Traditional Inspection&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takes 1–3 minutes per part&lt;/li&gt;&#xA;&lt;li&gt;Varies by operator&lt;/li&gt;&#xA;&lt;li&gt;Error-prone due to fatigue&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;VISPECT&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Seconds per inspection&lt;/li&gt;&#xA;&lt;li&gt;Consistent and fatigue-free&lt;/li&gt;&#xA;&lt;li&gt;Uniform across shifts&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;2--cost-savings-through-deskilling&#34;&gt;2. 💸 Cost Savings Through Deskilling&lt;/h3&gt;&#xA;&lt;p&gt;VISPECT decouples inspection skill from experience, so any operator can inspect like an expert.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Benefits:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lower inspection labor costs&lt;/li&gt;&#xA;&lt;li&gt;Faster onboarding&lt;/li&gt;&#xA;&lt;li&gt;Greater staff flexibility&lt;/li&gt;&#xA;&lt;li&gt;Reduced training needs&lt;/li&gt;&#xA;&lt;li&gt;Handle low-volume or sporadic parts easily&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;3--flexibility-with-mobile-quality-control&#34;&gt;3. 📱 Flexibility with Mobile Quality Control&lt;/h3&gt;&#xA;&lt;p&gt;VISPECT works with any camera—even smartphones—so inspections can be done anywhere:&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://www.aicuedatalab.com/blog/</link>
+      <link>http://localhost:1313/blog/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/</guid>
+      <guid>http://localhost:1313/blog/</guid>
       <description>&lt;h1 id=&#34;product-announcements-and-updates&#34;&gt;Product announcements and updates&lt;/h1&gt;&#xA;&lt;p&gt;We are excited to announce several new AI products that are now available. Each product is designed to address specific needs in various industries, leveraging the latest advancements in artificial intelligence.&lt;/p&gt;&#xA;&lt;h2 id=&#34;vispect-2025&#34;&gt;Vispect (2025)&lt;/h2&gt;&#xA;&lt;p&gt;Vispect is a cutting-edge AI solution designed for visual inspection in manufacturing. It enhances inspection effectiveness, reduces costs, and provides flexibility by deskilling operations. With cloud-based record maintenance and proven deployment across industries, Vispect ensures economical scalability for businesses of all sizes.&#xA;Know more about Vispect &lt;a href=&#34;https://www.aicuedatalab.com/vispect&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

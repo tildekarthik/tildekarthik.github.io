@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Observability on AICUE DATA LAB - Enabling decision making in manufacturing industry with AI</title>
-    <link>https://www.aicuedatalab.com/tags/observability/</link>
+    <link>http://localhost:1313/tags/observability/</link>
     <description>Recent content in Observability on AICUE DATA LAB - Enabling decision making in manufacturing industry with AI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.aicuedatalab.com/tags/observability/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/observability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Future of Dealerships: AI-Driven Observability Across Every Bay</title>
-      <link>https://www.aicuedatalab.com/blog/the-future-of-dealerships-ai-driven-observability-across-every-bay/</link>
+      <link>http://localhost:1313/blog/the-future-of-dealerships-ai-driven-observability-across-every-bay/</link>
       <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/the-future-of-dealerships-ai-driven-observability-across-every-bay/</guid>
+      <guid>http://localhost:1313/blog/the-future-of-dealerships-ai-driven-observability-across-every-bay/</guid>
       <description>&lt;p&gt;For decades, dealership efficiency was measured by the number of bays, the size of the team, or the hours per job.&lt;br&gt;&#xA;Today, a new metric is emerging — &lt;strong&gt;observability&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Dealerships that &lt;em&gt;see everything in real time&lt;/em&gt; are outpacing those that rely on manual tracking or end-of-day summaries.&lt;br&gt;&#xA;AI-driven observability is no longer futuristic; it’s quietly becoming the foundation of how modern workshops run.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-new-standard-of-awareness&#34;&gt;The New Standard of Awareness&lt;/h2&gt;&#xA;&lt;p&gt;With &lt;strong&gt;Platemate AI&lt;/strong&gt; capturing vehicle movements and &lt;strong&gt;AIDeal&lt;/strong&gt; interpreting patterns, every step of the service journey becomes visible:&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Safety on AICUE DATA LAB - Enabling decision making in manufacturing industry with AI</title>
-    <link>https://www.aicuedatalab.com/tags/safety/</link>
+    <link>http://localhost:1313/tags/safety/</link>
     <description>Recent content in Safety on AICUE DATA LAB - Enabling decision making in manufacturing industry with AI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Oct 2025 09:00:00 +0530</lastBuildDate>
-    <atom:link href="https://www.aicuedatalab.com/tags/safety/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/safety/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Audit Readiness Made Simple — Show Numbers, Not Narratives</title>
-      <link>https://www.aicuedatalab.com/blog/audit-readiness-made-simple-show-numbers-not-narratives/</link>
+      <link>http://localhost:1313/blog/audit-readiness-made-simple-show-numbers-not-narratives/</link>
       <pubDate>Thu, 23 Oct 2025 09:00:00 +0530</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/audit-readiness-made-simple-show-numbers-not-narratives/</guid>
+      <guid>http://localhost:1313/blog/audit-readiness-made-simple-show-numbers-not-narratives/</guid>
       <description>&lt;p&gt;Audits often come down to one big question: &lt;em&gt;Can you demonstrate improvement?&lt;/em&gt;&lt;br&gt;&#xA;Most shop floors struggle here — safety logs are inconsistent, and human observation is unreliable over long periods.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;AISee changes that.&lt;/strong&gt;&lt;br&gt;&#xA;Every deviation is logged automatically, along with time-stamped images and compliance percentages.&lt;br&gt;&#xA;When an auditor asks, you don’t show manual registers — you show &lt;strong&gt;data&lt;/strong&gt;, &lt;strong&gt;charts&lt;/strong&gt;, and &lt;strong&gt;trends&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;benefits&#34;&gt;Benefits&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real-time, quantitative evidence for safety compliance&lt;/li&gt;&#xA;&lt;li&gt;Automatic monthly and quarterly summaries&lt;/li&gt;&#xA;&lt;li&gt;Visual proof of CAPA (Corrective and Preventive Actions) effectiveness&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;AISee gives you the ability to say with confidence:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Turning Safety into Measurable Metrics with AISee</title>
-      <link>https://www.aicuedatalab.com/blog/turning-safety-into-measurable-metrics-with-aisee/</link>
+      <link>http://localhost:1313/blog/turning-safety-into-measurable-metrics-with-aisee/</link>
       <pubDate>Thu, 16 Oct 2025 09:00:00 +0530</pubDate>
-      <guid>https://www.aicuedatalab.com/blog/turning-safety-into-measurable-metrics-with-aisee/</guid>
+      <guid>http://localhost:1313/blog/turning-safety-into-measurable-metrics-with-aisee/</guid>
       <description>&lt;p&gt;For years, safety audits have relied on manual observations and checklists — difficult to sustain and nearly impossible to measure objectively.&lt;br&gt;&#xA;With &lt;strong&gt;AISee&lt;/strong&gt;, shop floors now gain &lt;strong&gt;measurable, daily metrics&lt;/strong&gt; for safety adherence using their existing CCTV feeds.&lt;/p&gt;&#xA;&lt;p&gt;AISee’s Vision-AI technology automatically detects safety gear like &lt;strong&gt;helmets, jackets, and goggles&lt;/strong&gt;, logs compliance by shift, and builds visual trend reports.&lt;br&gt;&#xA;Supervisors and managers can see at a glance how safety compliance evolves over time — by workstation, by shift, and by department.&lt;/p&gt;</description>
     </item>
   </channel>
