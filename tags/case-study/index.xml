@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Case Study on AICUE DATA LAB - Enabling decision making in manufacturing industry with AI</title>
-    <link>http://localhost:1313/tags/case-study/</link>
+    <link>https://www.aicuedatalab.com/tags/case-study/</link>
     <description>Recent content in Case Study on AICUE DATA LAB - Enabling decision making in manufacturing industry with AI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/case-study/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.aicuedatalab.com/tags/case-study/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Case Study: How a Dealership Improved Service Turnaround and Turnover by 10% Using AI</title>
-      <link>http://localhost:1313/blog/case-study-how-a-dealership-improved-service-turnaround-and-turnover-by-10-using-ai/</link>
+      <link>https://www.aicuedatalab.com/blog/case-study-how-a-dealership-improved-service-turnaround-and-turnover-by-10-using-ai/</link>
       <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/case-study-how-a-dealership-improved-service-turnaround-and-turnover-by-10-using-ai/</guid>
+      <guid>https://www.aicuedatalab.com/blog/case-study-how-a-dealership-improved-service-turnaround-and-turnover-by-10-using-ai/</guid>
       <description>&lt;p&gt;When a leading multi-brand dealership started missing delivery commitments, it wasn’t because of poor technicians — it was visibility. Vehicles were ready but still waiting. Bays stayed full, and same-day deliveries kept slipping.&lt;/p&gt;&#xA;&lt;p&gt;That changed when the team implemented &lt;strong&gt;Platemate AI&lt;/strong&gt; and &lt;strong&gt;AIDeal&lt;/strong&gt; together. What followed was a 10% increase in service capacity — without adding staff or a single extra bay.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-challenge-bottlenecks-hidden-in-plain-sight&#34;&gt;The Challenge: Bottlenecks Hidden in Plain Sight&lt;/h2&gt;&#xA;&lt;p&gt;The dealership aimed for a &lt;strong&gt;24-hour turnaround&lt;/strong&gt; for all service jobs.&lt;br&gt;&#xA;But once the vehicle entered the workshop, visibility vanished.&lt;br&gt;&#xA;Cars were often completed but undelivered — waiting for billing, approval, or a cashier.&lt;br&gt;&#xA;No one knew exactly how long each vehicle had been on site.&lt;/p&gt;</description>
     </item>
     <item>
       <title>From Cameras to Insights: How AI is Transforming Dealership Operations</title>
-      <link>http://localhost:1313/blog/from-cameras-to-insights-how-ai-is-transforming-dealership-operations/</link>
+      <link>https://www.aicuedatalab.com/blog/from-cameras-to-insights-how-ai-is-transforming-dealership-operations/</link>
       <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/from-cameras-to-insights-how-ai-is-transforming-dealership-operations/</guid>
+      <guid>https://www.aicuedatalab.com/blog/from-cameras-to-insights-how-ai-is-transforming-dealership-operations/</guid>
       <description>&lt;p&gt;Most dealerships already have dozens of CCTV cameras quietly recording every moment — vehicles arriving, bays filling, customers waiting.&lt;br&gt;&#xA;What if those same cameras could tell you &lt;em&gt;why&lt;/em&gt; a service bay is free, &lt;em&gt;which&lt;/em&gt; vehicles are pending delivery, or &lt;em&gt;how long&lt;/em&gt; a car has been waiting after completion?&lt;/p&gt;&#xA;&lt;p&gt;That’s exactly what we set out to do with &lt;strong&gt;Platemate AI&lt;/strong&gt; and &lt;strong&gt;AIDeal&lt;/strong&gt; — turning ordinary cameras into a real-time source of operational intelligence.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How a Tier 1 Supplier Cut Inspection Time by 95% Using VISPECT</title>
-      <link>http://localhost:1313/blog/how-a-tier-1-supplier-cut-inspection-time-by-95-using-vispect/</link>
+      <link>https://www.aicuedatalab.com/blog/how-a-tier-1-supplier-cut-inspection-time-by-95-using-vispect/</link>
       <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/how-a-tier-1-supplier-cut-inspection-time-by-95-using-vispect/</guid>
+      <guid>https://www.aicuedatalab.com/blog/how-a-tier-1-supplier-cut-inspection-time-by-95-using-vispect/</guid>
       <description>&lt;h2 id=&#34;a-tier-1-suppliers-journey-from-15-minute-inspections-to-45-seconds&#34;&gt;A Tier 1 Supplier&amp;rsquo;s Journey from 15-Minute Inspections to 45 Seconds&lt;/h2&gt;&#xA;&lt;p&gt;In the world of commercial vehicle manufacturing, quality assurance is non-negotiable. For one Tier 1 supplier specializing in &lt;strong&gt;fabrication and metal forming&lt;/strong&gt;, ensuring precision across thousands of parts per month was a serious operational challenge.&lt;/p&gt;&#xA;&lt;p&gt;Before VISPECT, their most complex part—requiring &lt;strong&gt;five different views and 150 individual part identification checks&lt;/strong&gt;—took around &lt;strong&gt;15 minutes&lt;/strong&gt; to inspect manually. This created delays, fatigue, and inconsistencies across operators and shifts. Also, this was with an experienced operator, who could only inspect a limited number of parts per hour.&lt;/p&gt;</description>
     </item>
   </channel>
